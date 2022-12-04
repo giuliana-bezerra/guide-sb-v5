@@ -10,4 +10,5 @@ Esse projeto foi elaborado [nesse vídeo](https://youtu.be/Jzf9ofPy_xk) explican
 - [ ] Conclusão
 
 ## Referência
-- [Vídeo do Youtube](https://youtu.be/Jzf9ofPy_xk) 
+- [Vídeo do Youtube](https://youtu.be/Jzf9ofPy_xk)
+- [Projeto migrado original](https://github.com/giuliana-bezerra/sb-transactions)
